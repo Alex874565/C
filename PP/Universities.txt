@@ -1,0 +1,52 @@
+2
+Universitatea de Vest din Timisoara
+3
+2
+Facultatea de Matematica si Informatica
+4
+2
+Informatica
+1
+Informatica - Engleza
+0
+Matematica
+0
+Mate-Info
+1
+Facultatea de Drept
+1
+0
+Drept
+0
+Facultatea de Sociologie si Psihologie
+4
+0
+Asistenta Sociala
+0
+Psihologie
+0
+Sociologie
+0
+Stiinte ale Educatiei
+0
+Universitatea Politehnica Timisoara
+2
+2
+Automatica si Calculatoare
+4
+0
+Calculatoare (Romana)
+0
+Calculatoare (Engleza)
+0
+Informatica
+0
+Tehnologia Informatiei
+0
+Electronica si Telecomunicatii
+2
+2
+Tehnologii si Sisteme de Telecomunicatii (Romana)
+0
+Tehnologii si Sisteme de Telecomunicatii (Engleza)
+2

@@ -1,0 +1,16 @@
+Universitatea Politehnica Timisoara, Electronica si Telecomunicatii, Tehnologii si Sisteme de Telecomunicatii (Engleza)
+Nume: Roxana
+Prenume: Roxana
+Tel: 091213
+Universitatea Politehnica Timisoara, Electronica si Telecomunicatii, Tehnologii si Sisteme de Telecomunicatii (Engleza)
+Nume: Benson
+Prenume: Benson
+Tel: 01821231
+Universitatea de Vest din Timisoara, Facultatea de Matematica si Informatica, Informatica
+Nume: Alex
+Prenume: Alex
+Tel: 09090909
+Universitatea de Vest din Timisoara, Facultatea de Matematica si Informatica, Mate-Info
+Nume: Cool
+Prenume: Kid
+Tel: 09
